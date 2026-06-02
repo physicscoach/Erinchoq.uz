@@ -1,0 +1,6 @@
+{
+  "name": "Erinchoq.uz",
+  "description": "Erinchoqlikni yengadigan, zamonaviy va lof-minimalistik shaxsiy mahsuldorlik boshqaruv paneli (Personal productivity dashboard)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
